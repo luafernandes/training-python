@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains files relating to one week of studies within the Python Immersion: From Excel to Data Analysis, offered by Alura. It was a whole week of classes covering different topics and challenges.
+NOTE: the files are all in PT-BR.
 
 ## About the Classes
 ### Class 01:
